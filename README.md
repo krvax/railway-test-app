@@ -1,2 +1,2 @@
-# railway-test-app
-Monorepo mínimo con backend (FastAPI) y frontend (React + Vite), listo para desplegar en Railway.
+# Railway Test App
+This is a README for the Railway Test App.
